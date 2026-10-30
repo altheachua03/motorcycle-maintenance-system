@@ -1,0 +1,219 @@
+========================================
+ MOTORCYCLE MAINTENANCE MANAGEMENT SYSTEM
+========================================
+1. Register motorcycle
+2. Display all motorcycles
+3. Add maintenance record
+4. View maintenance records
+5. Show maintenance reminder
+6. Save motorcycle data (simulation)
+7. Display system summary
+8. Exit
+Enter your choice: 1
+
+--- Register Motorcycle ---
+1. Honda
+2. Yamaha
+Choose motorcycle brand: 1
+Enter model: Click 125i
+Enter year: 2024
+Enter price (PHP): 85000
+
+Motorcycle registered successfully.
+
+========================================
+ MOTORCYCLE MAINTENANCE MANAGEMENT SYSTEM
+========================================
+1. Register motorcycle
+2. Display all motorcycles
+3. Add maintenance record
+4. View maintenance records
+5. Show maintenance reminder
+6. Save motorcycle data (simulation)
+7. Display system summary
+8. Exit
+Enter your choice: 1
+
+--- Register Motorcycle ---
+1. Honda
+2. Yamaha
+Choose motorcycle brand: 2
+Enter model: Mio Fazzio
+Enter year: 2025
+Enter price (PHP): 95000
+
+Motorcycle registered successfully.
+
+========================================
+ MOTORCYCLE MAINTENANCE MANAGEMENT SYSTEM
+========================================
+1. Register motorcycle
+2. Display all motorcycles
+3. Add maintenance record
+4. View maintenance records
+5. Show maintenance reminder
+6. Save motorcycle data (simulation)
+7. Display system summary
+8. Exit
+Enter your choice: 2
+
+Motorcycle #1
+
+--- Honda Motorcycle ---
+Brand: Honda
+Model: Click 125i
+Year: 2024
+Price: PHP 85000.00
+Description: A Honda motorcycle registered in the system.
+Maintenance records: 0
+
+Motorcycle #2
+
+--- Yamaha Motorcycle ---
+Brand: Yamaha
+Model: Mio Fazzio
+Year: 2025
+Price: PHP 95000.00
+Description: A Yamaha motorcycle registered in the system.
+Maintenance records: 0
+
+========================================
+ MOTORCYCLE MAINTENANCE MANAGEMENT SYSTEM
+========================================
+1. Register motorcycle
+2. Display all motorcycles
+3. Add maintenance record
+4. View maintenance records
+5. Show maintenance reminder
+6. Save motorcycle data (simulation)
+7. Display system summary
+8. Exit
+Enter your choice: 3
+
+--- Select Motorcycle ---
+1. Honda Click 125i
+2. Yamaha Mio Fazzio
+Select motorcycle number: 1
+Enter maintenance date (e.g., 2026-10-30): 2026-10-15
+Enter service description: Change engine oil
+Enter service cost (PHP): 500
+Maintenance record added successfully.
+
+========================================
+ MOTORCYCLE MAINTENANCE MANAGEMENT SYSTEM
+========================================
+1. Register motorcycle
+2. Display all motorcycles
+3. Add maintenance record
+4. View maintenance records
+5. Show maintenance reminder
+6. Save motorcycle data (simulation)
+7. Display system summary
+8. Exit
+Enter your choice: 3
+
+--- Select Motorcycle ---
+1. Honda Click 125i
+2. Yamaha Mio Fazzio
+Select motorcycle number: 2
+Enter maintenance date (e.g., 2026-10-30): 2026-10-20
+Enter service description: Brake inspection
+Enter service cost (PHP): 1200
+Maintenance record added successfully.
+
+========================================
+ MOTORCYCLE MAINTENANCE MANAGEMENT SYSTEM
+========================================
+1. Register motorcycle
+2. Display all motorcycles
+3. Add maintenance record
+4. View maintenance records
+5. Show maintenance reminder
+6. Save motorcycle data (simulation)
+7. Display system summary
+8. Exit
+Enter your choice: 4
+
+--- Maintenance Records ---
+
+Honda Click 125i
+
+Record #1
+Date: 2026-10-15
+Service: Change engine oil
+Cost: PHP 500.00
+
+Yamaha Mio Fazzio
+
+Record #1
+Date: 2026-10-20
+Service: Brake inspection
+Cost: PHP 1200.00
+
+========================================
+ MOTORCYCLE MAINTENANCE MANAGEMENT SYSTEM
+========================================
+1. Register motorcycle
+2. Display all motorcycles
+3. Add maintenance record
+4. View maintenance records
+5. Show maintenance reminder
+6. Save motorcycle data (simulation)
+7. Display system summary
+8. Exit
+Enter your choice: 5
+
+Reminder: Keep your motorcycle maintained regularly.
+Check the oil, brakes, tires, lights, and other important parts.
+
+========================================
+ MOTORCYCLE MAINTENANCE MANAGEMENT SYSTEM
+========================================
+1. Register motorcycle
+2. Display all motorcycles
+3. Add maintenance record
+4. View maintenance records
+5. Show maintenance reminder
+6. Save motorcycle data (simulation)
+7. Display system summary
+8. Exit
+Enter your choice: 6
+
+Saving motorcycle data...
+Honda Click 125i data saved successfully (simulation).
+Yamaha Mio Fazzio data saved successfully (simulation).
+Save operation completed. (This is a simulation only.)
+
+========================================
+ MOTORCYCLE MAINTENANCE MANAGEMENT SYSTEM
+========================================
+1. Register motorcycle
+2. Display all motorcycles
+3. Add maintenance record
+4. View maintenance records
+5. Show maintenance reminder
+6. Save motorcycle data (simulation)
+7. Display system summary
+8. Exit
+Enter your choice: 7
+
+========== SYSTEM SUMMARY ==========
+Total motorcycles: 2
+Total maintenance records: 2
+Total maintenance expenses: PHP 1700.00
+====================================
+
+========================================
+ MOTORCYCLE MAINTENANCE MANAGEMENT SYSTEM
+========================================
+1. Register motorcycle
+2. Display all motorcycles
+3. Add maintenance record
+4. View maintenance records
+5. Show maintenance reminder
+6. Save motorcycle data (simulation)
+7. Display system summary
+8. Exit
+Enter your choice: 8
+
+Thank you for using the system!
