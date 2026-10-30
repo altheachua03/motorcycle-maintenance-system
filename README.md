@@ -1,5 +1,4 @@
-
-# ## Week 12 Terminal Assessment: Motorcycle Maintenance Management System
+## Week 12 Terminal Assessment: Motorcycle Maintenance Management System
 
 **Student Name:** Althea Chua  
 **Block:** 3.1BSIT  
